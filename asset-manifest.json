@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/robot_friends/static/css/main.c7d2fe0b.chunk.css",
-    "main.js": "/robot_friends/static/js/main.5c2b3b71.chunk.js",
-    "main.js.map": "/robot_friends/static/js/main.5c2b3b71.chunk.js.map",
+    "main.css": "/robot_friends/static/css/main.09f34789.chunk.css",
+    "main.js": "/robot_friends/static/js/main.6d0a6910.chunk.js",
+    "main.js.map": "/robot_friends/static/js/main.6d0a6910.chunk.js.map",
     "runtime-main.js": "/robot_friends/static/js/runtime-main.278f9d53.js",
     "runtime-main.js.map": "/robot_friends/static/js/runtime-main.278f9d53.js.map",
     "static/css/2.eb45ad44.chunk.css": "/robot_friends/static/css/2.eb45ad44.chunk.css",
     "static/js/2.f053e8c4.chunk.js": "/robot_friends/static/js/2.f053e8c4.chunk.js",
     "static/js/2.f053e8c4.chunk.js.map": "/robot_friends/static/js/2.f053e8c4.chunk.js.map",
     "index.html": "/robot_friends/index.html",
-    "precache-manifest.fc9f75cc527fcec3acba7a1a89c28cc4.js": "/robot_friends/precache-manifest.fc9f75cc527fcec3acba7a1a89c28cc4.js",
+    "precache-manifest.406e1886d9d8f8cb0940cbe30d517978.js": "/robot_friends/precache-manifest.406e1886d9d8f8cb0940cbe30d517978.js",
     "service-worker.js": "/robot_friends/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/robot_friends/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.c7d2fe0b.chunk.css.map": "/robot_friends/static/css/main.c7d2fe0b.chunk.css.map",
+    "static/css/main.09f34789.chunk.css.map": "/robot_friends/static/css/main.09f34789.chunk.css.map",
     "static/js/2.f053e8c4.chunk.js.LICENSE": "/robot_friends/static/js/2.f053e8c4.chunk.js.LICENSE",
     "static/media/App.css": "/robot_friends/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.278f9d53.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.f053e8c4.chunk.js",
-    "static/css/main.c7d2fe0b.chunk.css",
-    "static/js/main.5c2b3b71.chunk.js"
+    "static/css/main.09f34789.chunk.css",
+    "static/js/main.6d0a6910.chunk.js"
   ]
 }
